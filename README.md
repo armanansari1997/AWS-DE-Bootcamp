@@ -1,2 +1,2 @@
 # AWS-DE-Bootcamp
-AWS Bootcamp for Data Engineer by Shashank
+AWS Bootcamp for Data Engineering by Shashank
